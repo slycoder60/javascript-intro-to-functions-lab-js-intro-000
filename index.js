@@ -20,10 +20,10 @@ function sayHiToGrandma(string){
 
      break;
      case (string.toUpperCase()):
-     return "YES INDEED!":
+     return "YES INDEED!"
      break;
      case (string)
-     'I love you, Grandma.'
+     'I love you, Grandma.':
      return "I love you, too."
 
    default:
